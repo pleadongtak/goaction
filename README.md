@@ -1,0 +1,2 @@
+# goaction
+go github action
